@@ -1,3 +1,5 @@
+**Inactive Project:** I've stopped using TextExpander since they've moved to a subscription-pricing model. This blog post mirrors my own thoughts on that fairly well: http://rhymeswithdiploma.com/post/142315992434/textexpander-6-or-how-not-to-launch-your-saas
+
 textexpander
 ==============
 
