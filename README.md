@@ -5,7 +5,7 @@ textexpander
 
 [![Puppet Forge](https://img.shields.io/puppetforge/v/halyard/textexpander.svg)](https://forge.puppetlabs.com/halyard/textexpander)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
-[![Build Status](https://img.shields.io/circleci/project/halyard/puppet-textexpander/master.svg)](https://circleci.com/gh/halyard/puppet-textexpander)
+[![Build Status](https://img.shields.io/travis/com/halyard/puppet-textexpander.svg)](https://travis-ci.com/halyard/puppet-textexpander)
 
 Install and configure textexpander
 
